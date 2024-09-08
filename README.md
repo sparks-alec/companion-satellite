@@ -74,8 +74,8 @@ NodeJS 18 is required
 ### Electron
 
 1. Install the dependencies `yarn install`
-1. Ensure the electron dependencies are installed `yarn electron-rebuild`
-1. Run it `yarn dev-electron`
+1. Ensure the electron dependencies are installed `yarn rebuild`
+1. Run it `yarn dev:electron`
 
 You can package for electron with `yarn dist`.  
 Building for another platform has not been tested.
